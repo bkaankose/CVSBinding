@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CVSBinding (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CVSBinding (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
