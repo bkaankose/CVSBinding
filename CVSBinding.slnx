@@ -10,4 +10,11 @@
     <Platform Solution="*|x86" Project="x86" />
     <Deploy />
   </Project>
+  <Project Path="D:/Github/dotnet/src/CommunityToolkit.Mvvm.CodeFixers.Roslyn4001/CommunityToolkit.Mvvm.CodeFixers.Roslyn4001.csproj" />
+  <Project Path="D:/Github/dotnet/src/CommunityToolkit.Mvvm.CodeFixers.Roslyn4120/CommunityToolkit.Mvvm.CodeFixers.Roslyn4120.csproj" />
+  <Project Path="D:/Github/dotnet/src/CommunityToolkit.Mvvm.SourceGenerators.Roslyn4001/CommunityToolkit.Mvvm.SourceGenerators.Roslyn4001.csproj" />
+  <Project Path="D:/Github/dotnet/src/CommunityToolkit.Mvvm.SourceGenerators.Roslyn4031/CommunityToolkit.Mvvm.SourceGenerators.Roslyn4031.csproj" />
+  <Project Path="D:/Github/dotnet/src/CommunityToolkit.Mvvm.SourceGenerators.Roslyn4120/CommunityToolkit.Mvvm.SourceGenerators.Roslyn4120.csproj" />
+  <Project Path="D:/Github/dotnet/src/CommunityToolkit.Mvvm.SourceGenerators.Roslyn5000/CommunityToolkit.Mvvm.SourceGenerators.Roslyn5000.csproj" />
+  <Project Path="D:/Github/dotnet/src/CommunityToolkit.Mvvm/CommunityToolkit.Mvvm.csproj" />
 </Solution>

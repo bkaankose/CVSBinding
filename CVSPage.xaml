@@ -13,7 +13,7 @@
         <CollectionViewSource
             x:Name="CVS"
             IsSourceGrouped="True"
-            Source="{x:Bind MailItems, Mode=OneWay}" />
+            Source="{x:Bind VM.MailItems, Mode=OneWay}" />
     </Page.Resources>
 
     <Grid Padding="50">
@@ -43,11 +43,11 @@
                 -->
                 <GroupStyle>
                     <GroupStyle.HeaderTemplate>
-                        <DataTemplate x:DataType="collections:IReadOnlyObservableGroup">
+                        <DataTemplate>
                             <TextBlock
                                 FontSize="24"
                                 FontWeight="Bold"
-                                Text="{x:Bind Key.ToString()}" />
+                                Text="Test header" />
                         </DataTemplate>
                     </GroupStyle.HeaderTemplate>
                 </GroupStyle>
